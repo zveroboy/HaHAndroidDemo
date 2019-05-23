@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HaH Android Demo</string>
+    <string name="login_label">Авторизация</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="create">Создать</string>
+    <string name="login_submit">Войти</string>
+    <string name="error_field_required">Поле обязательно для заполнения</string>
+    <string name="error_email_format">Неверный формат email</string>
+    <string name="error_field_min_length">Длина поля должна быть не менее %d символов</string>
+    <string name="error_field_require_digit">Поле должно содержать цифры</string>
+    <string name="error_field_require_lower_case_letter">Поле должно содержать строчные буквы</string>
+    <string name="error_field_require_upper_case_letter">Поле должно содержать заглавные буквы</string>
+    <string name="password_helper">Пароль - минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную, и 1 цифру.</string>
+    <string name="city_weather">В Санкт-Петербурге сейчас %d&#8451;</string>
+</resources>
